@@ -1,0 +1,1 @@
+The Library Management System using QR Code is a web-based application developed to automate library operations and provide a faster, more accurate way of managing books and users. The system integrates QR code technology to simplify book transactions such as issuing, returning, and tracking, eliminating the need for manual entry.
